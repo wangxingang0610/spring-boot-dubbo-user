@@ -12,6 +12,5 @@ public class SpringBootDubboUserApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootDubboUserApplication.class, args);
 	}
-
 }
 
